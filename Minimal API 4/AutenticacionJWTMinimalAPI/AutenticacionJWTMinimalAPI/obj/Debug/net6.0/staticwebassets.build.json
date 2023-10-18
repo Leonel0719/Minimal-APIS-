@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PadKZS4gc2kLXdWbghHsfW1OXedCRBpQcJ4RzNZNZS4=",
+  "Source": "AutenticacionJWTMinimalAPI",
+  "BasePath": "_content/AutenticacionJWTMinimalAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
