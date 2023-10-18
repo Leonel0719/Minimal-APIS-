@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LADCH.API", "LADCH.API\LADCH.API.csproj", "{4FF77DDD-6681-48A1-8F24-F918AB557207}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LADCH.DTOs", "LADCH.DTOs\LADCH.DTOs.csproj", "{F80F6B69-C790-42B0-B0F2-43CF0B2F4A80}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LADCH.AppWebMVC", "LADCH.AppWebMVC\LADCH.AppWebMVC.csproj", "{0EECE1A7-588D-493D-8CCA-BAE044187D3E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LADCH.AppWebBlazor", "LADCH.AppWebBlazor\LADCH.AppWebBlazor.csproj", "{FE840CAA-32EE-4DD4-8337-369271AAB97A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FF77DDD-6681-48A1-8F24-F918AB557207}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FF77DDD-6681-48A1-8F24-F918AB557207}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FF77DDD-6681-48A1-8F24-F918AB557207}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FF77DDD-6681-48A1-8F24-F918AB557207}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F80F6B69-C790-42B0-B0F2-43CF0B2F4A80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F80F6B69-C790-42B0-B0F2-43CF0B2F4A80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F80F6B69-C790-42B0-B0F2-43CF0B2F4A80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F80F6B69-C790-42B0-B0F2-43CF0B2F4A80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EECE1A7-588D-493D-8CCA-BAE044187D3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EECE1A7-588D-493D-8CCA-BAE044187D3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EECE1A7-588D-493D-8CCA-BAE044187D3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EECE1A7-588D-493D-8CCA-BAE044187D3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE840CAA-32EE-4DD4-8337-369271AAB97A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE840CAA-32EE-4DD4-8337-369271AAB97A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE840CAA-32EE-4DD4-8337-369271AAB97A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE840CAA-32EE-4DD4-8337-369271AAB97A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE9D970E-576B-4D4E-85DD-B30E5604608E}
+	EndGlobalSection
+EndGlobal

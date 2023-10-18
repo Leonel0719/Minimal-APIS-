@@ -1,0 +1,22 @@
+C:\Users\alexa\Desktop\Nueva carpeta\Minimal-API-5\LADCH\LADCH.DTOs\bin\Debug\net6.0\LADCH.DTOs.deps.json
+C:\Users\alexa\Desktop\Nueva carpeta\Minimal-API-5\LADCH\LADCH.DTOs\bin\Debug\net6.0\LADCH.DTOs.dll
+C:\Users\alexa\Desktop\Nueva carpeta\Minimal-API-5\LADCH\LADCH.DTOs\bin\Debug\net6.0\LADCH.DTOs.pdb
+C:\Users\alexa\Desktop\Nueva carpeta\Minimal-API-5\LADCH\LADCH.DTOs\obj\Debug\net6.0\LADCH.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\Desktop\Nueva carpeta\Minimal-API-5\LADCH\LADCH.DTOs\obj\Debug\net6.0\LADCH.DTOs.AssemblyInfoInputs.cache
+C:\Users\alexa\Desktop\Nueva carpeta\Minimal-API-5\LADCH\LADCH.DTOs\obj\Debug\net6.0\LADCH.DTOs.AssemblyInfo.cs
+C:\Users\alexa\Desktop\Nueva carpeta\Minimal-API-5\LADCH\LADCH.DTOs\obj\Debug\net6.0\LADCH.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\Nueva carpeta\Minimal-API-5\LADCH\LADCH.DTOs\obj\Debug\net6.0\LADCH.DTOs.dll
+C:\Users\alexa\Desktop\Nueva carpeta\Minimal-API-5\LADCH\LADCH.DTOs\obj\Debug\net6.0\refint\LADCH.DTOs.dll
+C:\Users\alexa\Desktop\Nueva carpeta\Minimal-API-5\LADCH\LADCH.DTOs\obj\Debug\net6.0\LADCH.DTOs.pdb
+C:\Users\alexa\Desktop\Nueva carpeta\Minimal-API-5\LADCH\LADCH.DTOs\obj\Debug\net6.0\ref\LADCH.DTOs.dll
+C:\Users\alexa\Desktop\Minimal API 5\Minimal-API-5\LADCH\LADCH.DTOs\bin\Debug\net6.0\LADCH.DTOs.deps.json
+C:\Users\alexa\Desktop\Minimal API 5\Minimal-API-5\LADCH\LADCH.DTOs\bin\Debug\net6.0\LADCH.DTOs.dll
+C:\Users\alexa\Desktop\Minimal API 5\Minimal-API-5\LADCH\LADCH.DTOs\bin\Debug\net6.0\LADCH.DTOs.pdb
+C:\Users\alexa\Desktop\Minimal API 5\Minimal-API-5\LADCH\LADCH.DTOs\obj\Debug\net6.0\LADCH.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\Desktop\Minimal API 5\Minimal-API-5\LADCH\LADCH.DTOs\obj\Debug\net6.0\LADCH.DTOs.AssemblyInfoInputs.cache
+C:\Users\alexa\Desktop\Minimal API 5\Minimal-API-5\LADCH\LADCH.DTOs\obj\Debug\net6.0\LADCH.DTOs.AssemblyInfo.cs
+C:\Users\alexa\Desktop\Minimal API 5\Minimal-API-5\LADCH\LADCH.DTOs\obj\Debug\net6.0\LADCH.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\Minimal API 5\Minimal-API-5\LADCH\LADCH.DTOs\obj\Debug\net6.0\LADCH.DTOs.dll
+C:\Users\alexa\Desktop\Minimal API 5\Minimal-API-5\LADCH\LADCH.DTOs\obj\Debug\net6.0\refint\LADCH.DTOs.dll
+C:\Users\alexa\Desktop\Minimal API 5\Minimal-API-5\LADCH\LADCH.DTOs\obj\Debug\net6.0\LADCH.DTOs.pdb
+C:\Users\alexa\Desktop\Minimal API 5\Minimal-API-5\LADCH\LADCH.DTOs\obj\Debug\net6.0\ref\LADCH.DTOs.dll
