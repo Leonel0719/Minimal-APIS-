@@ -1,0 +1,64 @@
+C:\Users\alexa\Desktop\WEB API 1\PrimeraAplicacionAPIConMinimalAPI\PrimeraAplicacionAPIConMinimalAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\alexa\Desktop\WEB API 1\PrimeraAplicacionAPIConMinimalAPI\PrimeraAplicacionAPIConMinimalAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\alexa\Desktop\WEB API 1\PrimeraAplicacionAPIConMinimalAPI\PrimeraAplicacionAPIConMinimalAPI\bin\Debug\net6.0\PrimeraAplicacionAPIConMinimalAPI.exe
+C:\Users\alexa\Desktop\WEB API 1\PrimeraAplicacionAPIConMinimalAPI\PrimeraAplicacionAPIConMinimalAPI\bin\Debug\net6.0\PrimeraAplicacionAPIConMinimalAPI.deps.json
+C:\Users\alexa\Desktop\WEB API 1\PrimeraAplicacionAPIConMinimalAPI\PrimeraAplicacionAPIConMinimalAPI\bin\Debug\net6.0\PrimeraAplicacionAPIConMinimalAPI.runtimeconfig.json
+C:\Users\alexa\Desktop\WEB API 1\PrimeraAplicacionAPIConMinimalAPI\PrimeraAplicacionAPIConMinimalAPI\bin\Debug\net6.0\PrimeraAplicacionAPIConMinimalAPI.dll
+C:\Users\alexa\Desktop\WEB API 1\PrimeraAplicacionAPIConMinimalAPI\PrimeraAplicacionAPIConMinimalAPI\bin\Debug\net6.0\PrimeraAplicacionAPIConMinimalAPI.pdb
+C:\Users\alexa\Desktop\WEB API 1\PrimeraAplicacionAPIConMinimalAPI\PrimeraAplicacionAPIConMinimalAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\alexa\Desktop\WEB API 1\PrimeraAplicacionAPIConMinimalAPI\PrimeraAplicacionAPIConMinimalAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\alexa\Desktop\WEB API 1\PrimeraAplicacionAPIConMinimalAPI\PrimeraAplicacionAPIConMinimalAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\alexa\Desktop\WEB API 1\PrimeraAplicacionAPIConMinimalAPI\PrimeraAplicacionAPIConMinimalAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\alexa\Desktop\WEB API 1\PrimeraAplicacionAPIConMinimalAPI\PrimeraAplicacionAPIConMinimalAPI\obj\Debug\net6.0\PrimeraAplicacionAPIConMinimalAPI.csproj.AssemblyReference.cache
+C:\Users\alexa\Desktop\WEB API 1\PrimeraAplicacionAPIConMinimalAPI\PrimeraAplicacionAPIConMinimalAPI\obj\Debug\net6.0\PrimeraAplicacionAPIConMinimalAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\Desktop\WEB API 1\PrimeraAplicacionAPIConMinimalAPI\PrimeraAplicacionAPIConMinimalAPI\obj\Debug\net6.0\PrimeraAplicacionAPIConMinimalAPI.AssemblyInfoInputs.cache
+C:\Users\alexa\Desktop\WEB API 1\PrimeraAplicacionAPIConMinimalAPI\PrimeraAplicacionAPIConMinimalAPI\obj\Debug\net6.0\PrimeraAplicacionAPIConMinimalAPI.AssemblyInfo.cs
+C:\Users\alexa\Desktop\WEB API 1\PrimeraAplicacionAPIConMinimalAPI\PrimeraAplicacionAPIConMinimalAPI\obj\Debug\net6.0\PrimeraAplicacionAPIConMinimalAPI.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\WEB API 1\PrimeraAplicacionAPIConMinimalAPI\PrimeraAplicacionAPIConMinimalAPI\obj\Debug\net6.0\PrimeraAplicacionAPIConMinimalAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\alexa\Desktop\WEB API 1\PrimeraAplicacionAPIConMinimalAPI\PrimeraAplicacionAPIConMinimalAPI\obj\Debug\net6.0\PrimeraAplicacionAPIConMinimalAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alexa\Desktop\WEB API 1\PrimeraAplicacionAPIConMinimalAPI\PrimeraAplicacionAPIConMinimalAPI\obj\Debug\net6.0\staticwebassets\msbuild.PrimeraAplicacionAPIConMinimalAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\alexa\Desktop\WEB API 1\PrimeraAplicacionAPIConMinimalAPI\PrimeraAplicacionAPIConMinimalAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.PrimeraAplicacionAPIConMinimalAPI.props
+C:\Users\alexa\Desktop\WEB API 1\PrimeraAplicacionAPIConMinimalAPI\PrimeraAplicacionAPIConMinimalAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PrimeraAplicacionAPIConMinimalAPI.props
+C:\Users\alexa\Desktop\WEB API 1\PrimeraAplicacionAPIConMinimalAPI\PrimeraAplicacionAPIConMinimalAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PrimeraAplicacionAPIConMinimalAPI.props
+C:\Users\alexa\Desktop\WEB API 1\PrimeraAplicacionAPIConMinimalAPI\PrimeraAplicacionAPIConMinimalAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\alexa\Desktop\WEB API 1\PrimeraAplicacionAPIConMinimalAPI\PrimeraAplicacionAPIConMinimalAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\alexa\Desktop\WEB API 1\PrimeraAplicacionAPIConMinimalAPI\PrimeraAplicacionAPIConMinimalAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\alexa\Desktop\WEB API 1\PrimeraAplicacionAPIConMinimalAPI\PrimeraAplicacionAPIConMinimalAPI\obj\Debug\net6.0\scopedcss\bundle\PrimeraAplicacionAPIConMinimalAPI.styles.css
+C:\Users\alexa\Desktop\WEB API 1\PrimeraAplicacionAPIConMinimalAPI\PrimeraAplicacionAPIConMinimalAPI\obj\Debug\net6.0\PrimeraAplicacionAPIConMinimalAPI.csproj.CopyComplete
+C:\Users\alexa\Desktop\WEB API 1\PrimeraAplicacionAPIConMinimalAPI\PrimeraAplicacionAPIConMinimalAPI\obj\Debug\net6.0\PrimeraAplicacionAPIConMinimalAPI.dll
+C:\Users\alexa\Desktop\WEB API 1\PrimeraAplicacionAPIConMinimalAPI\PrimeraAplicacionAPIConMinimalAPI\obj\Debug\net6.0\refint\PrimeraAplicacionAPIConMinimalAPI.dll
+C:\Users\alexa\Desktop\WEB API 1\PrimeraAplicacionAPIConMinimalAPI\PrimeraAplicacionAPIConMinimalAPI\obj\Debug\net6.0\PrimeraAplicacionAPIConMinimalAPI.pdb
+C:\Users\alexa\Desktop\WEB API 1\PrimeraAplicacionAPIConMinimalAPI\PrimeraAplicacionAPIConMinimalAPI\obj\Debug\net6.0\PrimeraAplicacionAPIConMinimalAPI.genruntimeconfig.cache
+C:\Users\alexa\Desktop\WEB API 1\PrimeraAplicacionAPIConMinimalAPI\PrimeraAplicacionAPIConMinimalAPI\obj\Debug\net6.0\ref\PrimeraAplicacionAPIConMinimalAPI.dll
+C:\Users\alexa\Desktop\Minimal API\Minimal-API-1\PrimeraAplicacionAPIConMinimalAPI\PrimeraAplicacionAPIConMinimalAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\alexa\Desktop\Minimal API\Minimal-API-1\PrimeraAplicacionAPIConMinimalAPI\PrimeraAplicacionAPIConMinimalAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\alexa\Desktop\Minimal API\Minimal-API-1\PrimeraAplicacionAPIConMinimalAPI\PrimeraAplicacionAPIConMinimalAPI\bin\Debug\net6.0\PrimeraAplicacionAPIConMinimalAPI.exe
+C:\Users\alexa\Desktop\Minimal API\Minimal-API-1\PrimeraAplicacionAPIConMinimalAPI\PrimeraAplicacionAPIConMinimalAPI\bin\Debug\net6.0\PrimeraAplicacionAPIConMinimalAPI.deps.json
+C:\Users\alexa\Desktop\Minimal API\Minimal-API-1\PrimeraAplicacionAPIConMinimalAPI\PrimeraAplicacionAPIConMinimalAPI\bin\Debug\net6.0\PrimeraAplicacionAPIConMinimalAPI.runtimeconfig.json
+C:\Users\alexa\Desktop\Minimal API\Minimal-API-1\PrimeraAplicacionAPIConMinimalAPI\PrimeraAplicacionAPIConMinimalAPI\bin\Debug\net6.0\PrimeraAplicacionAPIConMinimalAPI.dll
+C:\Users\alexa\Desktop\Minimal API\Minimal-API-1\PrimeraAplicacionAPIConMinimalAPI\PrimeraAplicacionAPIConMinimalAPI\bin\Debug\net6.0\PrimeraAplicacionAPIConMinimalAPI.pdb
+C:\Users\alexa\Desktop\Minimal API\Minimal-API-1\PrimeraAplicacionAPIConMinimalAPI\PrimeraAplicacionAPIConMinimalAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\alexa\Desktop\Minimal API\Minimal-API-1\PrimeraAplicacionAPIConMinimalAPI\PrimeraAplicacionAPIConMinimalAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\alexa\Desktop\Minimal API\Minimal-API-1\PrimeraAplicacionAPIConMinimalAPI\PrimeraAplicacionAPIConMinimalAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\alexa\Desktop\Minimal API\Minimal-API-1\PrimeraAplicacionAPIConMinimalAPI\PrimeraAplicacionAPIConMinimalAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\alexa\Desktop\Minimal API\Minimal-API-1\PrimeraAplicacionAPIConMinimalAPI\PrimeraAplicacionAPIConMinimalAPI\obj\Debug\net6.0\PrimeraAplicacionAPIConMinimalAPI.csproj.AssemblyReference.cache
+C:\Users\alexa\Desktop\Minimal API\Minimal-API-1\PrimeraAplicacionAPIConMinimalAPI\PrimeraAplicacionAPIConMinimalAPI\obj\Debug\net6.0\PrimeraAplicacionAPIConMinimalAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\Desktop\Minimal API\Minimal-API-1\PrimeraAplicacionAPIConMinimalAPI\PrimeraAplicacionAPIConMinimalAPI\obj\Debug\net6.0\PrimeraAplicacionAPIConMinimalAPI.AssemblyInfoInputs.cache
+C:\Users\alexa\Desktop\Minimal API\Minimal-API-1\PrimeraAplicacionAPIConMinimalAPI\PrimeraAplicacionAPIConMinimalAPI\obj\Debug\net6.0\PrimeraAplicacionAPIConMinimalAPI.AssemblyInfo.cs
+C:\Users\alexa\Desktop\Minimal API\Minimal-API-1\PrimeraAplicacionAPIConMinimalAPI\PrimeraAplicacionAPIConMinimalAPI\obj\Debug\net6.0\PrimeraAplicacionAPIConMinimalAPI.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\Minimal API\Minimal-API-1\PrimeraAplicacionAPIConMinimalAPI\PrimeraAplicacionAPIConMinimalAPI\obj\Debug\net6.0\PrimeraAplicacionAPIConMinimalAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\alexa\Desktop\Minimal API\Minimal-API-1\PrimeraAplicacionAPIConMinimalAPI\PrimeraAplicacionAPIConMinimalAPI\obj\Debug\net6.0\PrimeraAplicacionAPIConMinimalAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alexa\Desktop\Minimal API\Minimal-API-1\PrimeraAplicacionAPIConMinimalAPI\PrimeraAplicacionAPIConMinimalAPI\obj\Debug\net6.0\staticwebassets\msbuild.PrimeraAplicacionAPIConMinimalAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\alexa\Desktop\Minimal API\Minimal-API-1\PrimeraAplicacionAPIConMinimalAPI\PrimeraAplicacionAPIConMinimalAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.PrimeraAplicacionAPIConMinimalAPI.props
+C:\Users\alexa\Desktop\Minimal API\Minimal-API-1\PrimeraAplicacionAPIConMinimalAPI\PrimeraAplicacionAPIConMinimalAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PrimeraAplicacionAPIConMinimalAPI.props
+C:\Users\alexa\Desktop\Minimal API\Minimal-API-1\PrimeraAplicacionAPIConMinimalAPI\PrimeraAplicacionAPIConMinimalAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PrimeraAplicacionAPIConMinimalAPI.props
+C:\Users\alexa\Desktop\Minimal API\Minimal-API-1\PrimeraAplicacionAPIConMinimalAPI\PrimeraAplicacionAPIConMinimalAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\alexa\Desktop\Minimal API\Minimal-API-1\PrimeraAplicacionAPIConMinimalAPI\PrimeraAplicacionAPIConMinimalAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\alexa\Desktop\Minimal API\Minimal-API-1\PrimeraAplicacionAPIConMinimalAPI\PrimeraAplicacionAPIConMinimalAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\alexa\Desktop\Minimal API\Minimal-API-1\PrimeraAplicacionAPIConMinimalAPI\PrimeraAplicacionAPIConMinimalAPI\obj\Debug\net6.0\scopedcss\bundle\PrimeraAplicacionAPIConMinimalAPI.styles.css
+C:\Users\alexa\Desktop\Minimal API\Minimal-API-1\PrimeraAplicacionAPIConMinimalAPI\PrimeraAplicacionAPIConMinimalAPI\obj\Debug\net6.0\PrimeraAplicacionAPIConMinimalAPI.csproj.CopyComplete
+C:\Users\alexa\Desktop\Minimal API\Minimal-API-1\PrimeraAplicacionAPIConMinimalAPI\PrimeraAplicacionAPIConMinimalAPI\obj\Debug\net6.0\PrimeraAplicacionAPIConMinimalAPI.dll
+C:\Users\alexa\Desktop\Minimal API\Minimal-API-1\PrimeraAplicacionAPIConMinimalAPI\PrimeraAplicacionAPIConMinimalAPI\obj\Debug\net6.0\refint\PrimeraAplicacionAPIConMinimalAPI.dll
+C:\Users\alexa\Desktop\Minimal API\Minimal-API-1\PrimeraAplicacionAPIConMinimalAPI\PrimeraAplicacionAPIConMinimalAPI\obj\Debug\net6.0\PrimeraAplicacionAPIConMinimalAPI.pdb
+C:\Users\alexa\Desktop\Minimal API\Minimal-API-1\PrimeraAplicacionAPIConMinimalAPI\PrimeraAplicacionAPIConMinimalAPI\obj\Debug\net6.0\PrimeraAplicacionAPIConMinimalAPI.genruntimeconfig.cache
+C:\Users\alexa\Desktop\Minimal API\Minimal-API-1\PrimeraAplicacionAPIConMinimalAPI\PrimeraAplicacionAPIConMinimalAPI\obj\Debug\net6.0\ref\PrimeraAplicacionAPIConMinimalAPI.dll
