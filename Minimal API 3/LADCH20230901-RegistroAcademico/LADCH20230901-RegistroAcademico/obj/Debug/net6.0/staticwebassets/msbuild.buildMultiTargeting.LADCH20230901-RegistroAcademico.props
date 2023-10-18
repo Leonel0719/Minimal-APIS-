@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LADCH20230901-RegistroAcademico.props" />
+</Project>
